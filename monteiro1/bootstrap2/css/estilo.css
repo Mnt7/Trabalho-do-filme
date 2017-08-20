@@ -1,0 +1,38 @@
+body{
+
+  background-image: url(../img/sitefundo.jpg);
+}
+#divcontainer{
+  background-color: white;
+  height: 500px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+#banner{
+  width: 95%;
+  margin-left: 30px;
+  height: 360px;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+}
+.ok{
+  background-color: gray;
+  color: white;
+  border: 1px solid black;
+}
+#topseries,#conteudo,#categoria{
+  height: 100px;
+}
+#maiscategoria{
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 99px;
+  background-color: #D9381B;
+}
+#corpomaiscategoria{
+  height: 50px;
+  background-color: white;
+}
+#titulo{
+  color: white;
+}
